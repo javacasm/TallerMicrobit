@@ -27,9 +27,11 @@
 
 ![Hardware](./images/microbit-overview-1-5.png)
 
-Se puede programar usando bloques, python o javascript
+Se puede programar usando bloques, python, javascript, scratch e incluso con el C de Arduino
 
-![Lenguajes](http://microbit.org/images/both-editors.png)
+![Lenguajes](https://store-images.s-microsoft.com/image/apps.243.14214668852112265.3f53d487-6d9a-46af-a80e-89d06f57d0cd.2655a133-548b-414d-a08b-0d0e91149b37?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg)
+
+![](https://i.pinimg.com/originals/30/81/3d/30813d7fca805de2131926e1ef4a00da.png)
 
 ## Python
 

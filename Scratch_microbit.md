@@ -68,7 +68,7 @@ También se lanza este asistente si no hay ningna conectada y pulsamos sore la a
 
 ## Ejemplos
 
-Los ejemplos están incluídos en un [Studio de Scratch](https://scratch.mit.edu/studios/27053713/)
+Los ejemplos están incluídos en un [Studio de Scratch](https://scratch.mit.edu/studios/27053713/) y compartidos en la carpeta [Proyectos](./proyectos)
 
 ### Interacción con los personajes
 Ejemplo sencillo de interación donde nuestro Gato maúlla al pulsar el botón A de la micro:bit

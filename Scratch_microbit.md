@@ -66,6 +66,10 @@ Al cargar la extensión se busca si existe alguna placa micro:bit cercana.
 
 También se lanza este asistente si no hay ningna conectada y pulsamos sore la admiración naranja
 
+## Ejemplos
+
+Los ejemplos están incluídos en un [Studio de Scratch](https://scratch.mit.edu/studios/27053713/)
+
 ### Interacción con los personajes
 Ejemplo sencillo de interación donde nuestro Gato maúlla al pulsar el botón A de la micro:bit
 
@@ -99,6 +103,10 @@ Los proyectos son compatibles entre plataformas: podemos crearlos en un PC y com
 Movemos nuestro personaje por pantalla inclinando la microbit en diferentes direcciones 
 
 ![](./images/acelerometromicrobit.jpg)
+
+Se puede trabajar con más precisión usando el bloque que mide el número de grados de inclinación
+
+![AnguloInclinacion.png](./images/AnguloInclinacion.png)
 
 ### Contador de saltos
 Podemos usar las variables de Scratch para guardar el número de saltos que hemos datos, mostrando en la pantalla de led el valor (y en pantalla también)

@@ -74,6 +74,7 @@ Ejemplo sencillo de interación donde nuestro Gato maúlla al pulsar el botón A
 ## Mostrar nuestros diseños
 
 Al agitar se muestra un corazón o cualquier diseño que hayamos hecho con los leds
+
 ![](./images/DibujosLeds.jpg)
 
 Podemos usarlos para mostrar nuestras emociones (a la vez que cambia el disfraz de nuesro personaje)

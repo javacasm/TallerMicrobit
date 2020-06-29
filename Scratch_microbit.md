@@ -1,5 +1,8 @@
 ## Scratch y micro:bit
 
+![ProgramamicrobitVideo.png](./images/ProgramamicrobitVideo.png)
+
+
 Scratch 3.0 incluye una extensión para trabajar con micro:bit
 
 Trabajar con Scratch permite mezclar parte de la funcionalidad de nuestra micro:bit (botones, leds, acelerómetro y conexión a los pines 0,1 y 2) con el resto de posibilidades de Scratch: personajes, sonidos, dibujar en pantalla, vídeo, música,...
@@ -118,7 +121,7 @@ Podemos usar las variables de Scratch para guardar el número de saltos que hemo
 
 También podemos usar varias extensiones como la vídeo al mismo tiempo. En este sencilo ejemplo activamos el vídeo al pulsar el botón A (se deja como ejercicio apagarlo al pulsar el botón B), al agitar la microbit se muestra un corazón y al saltar maúlla, moviéndose Gato al inclinarla a la derecha o izquierda
 
-![](./images/microbitVideo.jpg)
+![](./images/microbitVideo.png)
 
 ## Referencias y recursos
 

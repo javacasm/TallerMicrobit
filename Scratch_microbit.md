@@ -9,6 +9,12 @@ Para usar toda la funcionalidad de micro:bit debemos usar el editor de bloques d
 
 ## Instalación
 
+* En tabletas Android, usando la [app de Scratch](https://play.google.com/store/apps/details?id=org.scratch)
+
+![AppScratch.png](./images/AppScratch.png)
+
+![images/qr-code_appScratch.png](./images/qr-code_appScratch.png)
+
 * En Windows instala [Scratch Link](https://downloads.scratch.mit.edu/link/windows.zip)
 
 ![scratchlink windows toolbar](https://scratch.mit.edu/images/scratchlink/windows-toolbar.png)
@@ -16,12 +22,6 @@ Para usar toda la funcionalidad de micro:bit debemos usar el editor de bloques d
 * En Mac instala su versión de [Scratch Link](https://downloads.scratch.mit.edu/link/mac.zip)
 
 ![scratchlink mac-toolbar](https://scratch.mit.edu/images/scratchlink/mac-toolbar.png)
-
-* En tabletas Android, usando la [app de Scratch](https://play.google.com/store/apps/details?id=org.scratch)
-
-![AppScratch.png](./images/AppScratch.png)
-
-![images/qr-code_appScratch.png](./images/qr-code_appScratch.png)
 
 ## Scratch y micro:bit
 

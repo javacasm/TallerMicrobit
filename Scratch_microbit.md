@@ -38,6 +38,7 @@ Para poder trabajar con Scratch y micro:bit necesitamos instalar en nuestra micr
 ![CopiarFicheroHex.png](./images/CopiarFicheroHex.png)
 1. El led trasero, junto al conector usb de la micro:bit parpadea durante unos segundos.
 1. Cuando quede fijo ha terminado el proceso. Ya podemos trabajar con ella.
+1. Aparecerán en los leds 4 caracteres que son un nombre aleatorio que se le da a la micro:bit y que nos servirá para identicar cada una de ellas. Si tenemos varias, no es mala idea etiquetarlas para así distinguirlas.
 
 Ahora vamos a ver como utilizarla desde Scratch:
 
@@ -94,13 +95,22 @@ Al agitar la micro:bit se muestra un valor aleatorio entre 1 y 6
 
 ![](./images/Dadomicrobit.jpg)
 
-### Compartir proyectos 
+### Animación de personajes y en micro:bit
 
-Podemos compartir proyectos que abriremos por ejemplo desde google drive
+Veamos un sencillo ejemplo en el que animamos nuestro personaje de Scratch y a la vez mostramos una sencilla animación en la micro:bit
+
+![](./images/AnimacionPersonajeMicrobit.png)
+
+### Importar proyectos
+
+Podemos cargar proyectos desde ficheros o desde la nube usando Google Drive o similares.
+
+Al pulsar importar veremos las opciones
 
 ![](./images/CompartirFicheros.jpg)
 
-Los proyectos son compatibles entre plataformas: podemos crearlos en un PC y compartirlos en google drive a donde accederemos desde la tableta
+Los proyectos son compatibles entre plataformas: podemos crearlos en un PC y compartirlos en google drive a donde accederemos desde la tableta.
+
 
 ### Uso del acelerómetro
 
@@ -122,6 +132,23 @@ Podemos usar las variables de Scratch para guardar el número de saltos que hemo
 También podemos usar varias extensiones como la vídeo al mismo tiempo. En este sencilo ejemplo activamos el vídeo al pulsar el botón A (se deja como ejercicio apagarlo al pulsar el botón B), al agitar la microbit se muestra un corazón y al saltar maúlla, moviéndose Gato al inclinarla a la derecha o izquierda
 
 ![](./images/microbitVideo.png)
+
+
+### Compartir proyectos 
+
+Podemos compartir proyectos que exportaremos por ejemplo usando Google Drive o la comunidad de Scratch
+
+Al pulsar sobre los 3 puntos  sobre un proyecto lo podemos **"Compartir"**
+
+![](./images/MenuCompartir.png)
+
+Usando las opciones habituales de compartir
+
+![](./images/CompartirProyecto.png)
+
+o usando nuestra cuenta de Scratch
+
+![](./images/CompartirUsuarioScratch.png)
 
 ## Referencias y recursos
 
